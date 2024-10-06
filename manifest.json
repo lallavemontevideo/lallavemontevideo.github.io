@@ -1,11 +1,11 @@
 {
-  "name": "cerrajeria_la_llave",
-  "short_name": "cerrajeria_la_llave",
+  "name": "Cerrajería",
+  "short_name": "Cerrajería",
   "start_url": "/",
   "display": "fullscreen",
   "background_color": "#0175C2",
   "theme_color": "#0175C2",
-  "description": "cerrajeria_la_llave.",
+  "description": "Cerrajería La Llave Montevideo.",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [
