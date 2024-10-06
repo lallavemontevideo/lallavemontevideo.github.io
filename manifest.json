@@ -1,0 +1,35 @@
+{
+  "name": "cerrajeria_la_llave",
+  "short_name": "cerrajeria_la_llave",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#0175C2",
+  "theme_color": "#0175C2",
+  "description": "cerrajeria_la_llave.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/lallave-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/lallave-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/lallave-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/lallave-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
