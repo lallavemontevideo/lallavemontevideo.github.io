@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "89b6346710bb6f06943bcc28ac3303db",
+  "404.html": "6ec19126fcefdec641c90444027f162c",
+"assets/AssetManifest.json": "89b6346710bb6f06943bcc28ac3303db",
 "assets/assets/call.svg": "f32809824090342e6626287c7b98ad73",
 "assets/assets/lallave-adaptive.png": "feabfd17c784e589e8e4f593c56af08b",
 "assets/assets/location.svg": "6cb284f3b0a521cba0381becfd0e2aa9",
@@ -28,10 +29,10 @@ const RESOURCES = {
 "icons/lallave-192.png": "80691f62c7848b99a3dae4468f75545a",
 "icons/lallave-512.png": "407124ff2e1d38f2f65e7cc2a7177b27",
 "icons/lallave.png": "3570f1d0b1eeb77d8094d73c293adc3a",
-"index.html": "6dc7e076ec127ccd86f7f5bd9a08729a",
-"/": "6dc7e076ec127ccd86f7f5bd9a08729a",
+"index.html": "83cad7bda9e34dcd12e9102a92fc746a",
+"/": "83cad7bda9e34dcd12e9102a92fc746a",
 "main.dart.js": "017c8bc7f9128a9a448b4aed27b49505",
-"manifest.json": "decc0fe8d41587407f7b250f1827fc6a",
+"manifest.json": "50054cde560e8725003d4315712f0097",
 "splash/img/dark-1x.png": "04876ae040ea9a4fc572867354a1e061",
 "splash/img/dark-2x.png": "e68fc828c6fc18958693c35a73a503d0",
 "splash/img/dark-3x.png": "d36e43ee6124f6efe9e646b25a57fcfc",

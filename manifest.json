@@ -2,7 +2,7 @@
   "name": "Cerrajería",
   "short_name": "Cerrajería",
   "start_url": "/",
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "#0175C2",
   "theme_color": "#0175C2",
   "description": "Cerrajería La Llave Montevideo.",
